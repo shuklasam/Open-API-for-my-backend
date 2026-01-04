@@ -1,0 +1,1 @@
+{"version":3,"file":"todosController.d.ts","sourceRoot":"","sources":["../../../src/todos/todosController.ts"],"names":[],"mappings":"AAAA,OAAO,EAEL,UAAU,EAOX,MAAM,MAAM,CAAC;AAEd,OAAO,KAAK,EAAE,IAAI,EAAE,MAAM,WAAW,CAAC;AAGtC,qBACa,cAAe,SAAQ,UAAU;IAE/B,OAAO,CACV,MAAM,EAAE,MAAM,GACpB,OAAO,CAAC,IAAI,CAAC;CAIhB"}
